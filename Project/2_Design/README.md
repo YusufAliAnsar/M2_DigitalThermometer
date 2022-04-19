@@ -1,4 +1,4 @@
-## M2_DigitalThermomter
+## M2_DigitalThermometer
 
 ## Structural Diagram
 
@@ -14,4 +14,5 @@
 
 ## Flow Chart
 
-![image](https://user-images.githubusercontent.com/102678112/164071571-fef5f0db-3d2c-41ce-ace2-96575fa8207e.png)
+![Screenshot 2022-04-20 001421](https://user-images.githubusercontent.com/102678112/164073917-2c9a818c-4efe-488f-ae92-85f6f020cd6f.png)
+
