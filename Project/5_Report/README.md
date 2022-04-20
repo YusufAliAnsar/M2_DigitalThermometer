@@ -99,6 +99,7 @@ Structural Diagram
 ![Screenshot 2022-04-19 235056](https://user-images.githubusercontent.com/102678112/164306543-cc159417-9a0a-4dc2-9513-23c9ce387dbc.png)
 
 Block Diagram
+![image](https://user-images.githubusercontent.com/102678112/164307349-6f443fbd-dda2-4acb-be2b-8ec911b0bbc5.png)
 
 
 Flow Chart
