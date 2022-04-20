@@ -92,5 +92,7 @@ They are devices to measure temperature readings through electrical signals
 ## References
 
 Previous project 
+
 Taking help from Youtube
+
 GeekforGeeks
