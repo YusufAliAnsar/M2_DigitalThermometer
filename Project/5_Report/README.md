@@ -106,6 +106,13 @@ Block Diagram
 Flow Chart
 ![Screenshot 2022-04-20 001421](https://user-images.githubusercontent.com/102678112/164306756-104dfde4-53ba-4568-87a4-74802c3c8ab1.png)
 
+## Output
+
+![Screenshot 2022-04-20 142301](https://user-images.githubusercontent.com/102678112/164308385-371aef8f-b119-420d-bfa5-26b14a2f3d57.png)
+![Screenshot 2022-04-20 142107](https://user-images.githubusercontent.com/102678112/164308428-5e0cd08a-f98e-495e-870c-c5bb56313a74.png)
+![Screenshot 2022-04-20 142430](https://user-images.githubusercontent.com/102678112/164308470-3709ac4c-2a01-4e51-af93-ec23b6d04023.png)
+
+
 ## Application
 
 1) Cooking (for testing food is cooked through), laboratories (for measuring solutions in test tubes).
