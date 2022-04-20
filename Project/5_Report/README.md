@@ -42,7 +42,6 @@ wires used to connect components
 ## High level Requirements
 
 | ID     |       Description      |     Status            |
-
 |------- | ---------------------- | --------------------- |
 | HLRO1 | Measuring the temperature | Implemented |
 | HLRO2 | Detecting | Implemented |
