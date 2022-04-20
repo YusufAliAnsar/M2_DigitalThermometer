@@ -41,45 +41,55 @@ wires used to connect components
 
 ## High level Requirements
 
-| ID    | Description          | Status              |
+| ID     |       Description      |     Status            |
 
-|-------|----------------------|---------------------|
-
-
+|------- | ---------------------- | --------------------- |
 | HLRO1 | Measuring the temperature | Implemented |
-
-
 | HLRO2 | Detecting | Implemented |
-
 | HLRO3 | Displaying the information on lcd | Implemented |
 
 ## Low Level Requirements
 
 | ID      | Description      | Status     |
-
 |---------|------------------|------------|
-
 | LLRO1 | Mrasuring in infinite time as we want | Implemented |
-
 | LLRO2 | Displaying in real time | Implemented |
 
-## 4W's & 1H
+## Hardware
 
-## What:
-It displaying a numerical values and it is used to verify a smart temperature transmitter under flowing conditions and a successful calibration of the smart temperature transmitter.
+| Components | Quantity |
+| Atmega328  |    1     |
+| LM35       |    1     |
+| Display    |    1     |
+| Volatage supply |  1  |
+| Cpacitor   |     1    |
 
-## Why:
+## Software
 
-digital thermometer is not only faster on body temperature measurement results providing, but also better accuracy results to us. Based on the tested records of the experiments, the accuracy of a digital thermometer could be 0.1℃.
+| Component | Purpose |
+| SimulIde  | Circuit design and simulation |
+| Arduino IDE | hex file |
+| VS Code   |  Makefile |
 
-## When:
+## SWOT Analysis
 
-A typical inexpensive electronic ear thermometer for home use has a displayed resolution of 0.1 °C, but a stated accuracy within ±0.2 °C (±0.35 °F) when new
+Strength:
 
-## Where:
+ 1) In the digital thermometer we easily detect out temperature.
+ 2) Digital thermometer to measure different temperature ranges between -200 and 1800ºC.
+ 3) Measurement of temperature is done in many different industry sectors.
+ 
+ Weakness:
+ 
+ 1) Submerging a conventional thermometer in warm, soapy water is simple, but doing it with a digital thermometer is more complicated.
+ 2) Some digital thermometers are more accurate than others.
 
-Digital thermometers work by using heat sensors that determine body temperature. They can be used to take temperature readings in the mouth, rectum, or armpit
+Opportunity:
 
-## How:
+1) By presenting an in-depth analysis of the latest trends driving this vertical trend in different regions, Decisive Markets Insights.
 
-They are devices to measure temperature readings through electrical signals
+Threats:
+
+Thermometer can be dangerous if the glass breaks and the mercury is not cleaned up properly. The mercury will evaporate and can contaminate the surrounding air and become toxic to humans and wildlife.
+
+## Desigining
