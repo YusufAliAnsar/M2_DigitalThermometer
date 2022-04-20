@@ -94,3 +94,13 @@ Threats:
 Thermometer can be dangerous if the glass breaks and the mercury is not cleaned up properly. The mercury will evaporate and can contaminate the surrounding air and become toxic to humans and wildlife.
 
 ## Desigining
+
+Structural Diagram
+![Screenshot 2022-04-19 235056](https://user-images.githubusercontent.com/102678112/164306543-cc159417-9a0a-4dc2-9513-23c9ce387dbc.png)
+
+Block Diagram
+
+
+Flow Chart
+![Screenshot 2022-04-20 001421](https://user-images.githubusercontent.com/102678112/164306756-104dfde4-53ba-4568-87a4-74802c3c8ab1.png)
+
