@@ -113,3 +113,8 @@ Flow Chart
 3) Automotive
 4) Research and quality control.
 
+## References 
+
+Previous project 
+Taking help from youtube
+GeekforGeeks
