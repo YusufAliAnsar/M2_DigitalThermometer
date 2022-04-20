@@ -57,6 +57,7 @@ wires used to connect components
 ## Hardware
 
 | Components | Quantity |
+|------------|----------|
 | Atmega328  |    1     |
 | LM35       |    1     |
 | Display    |    1     |
@@ -66,6 +67,7 @@ wires used to connect components
 ## Software
 
 | Component | Purpose |
+|-----------|---------|
 | SimulIde  | Circuit design and simulation |
 | Arduino IDE | hex file |
 | VS Code   |  Makefile |
