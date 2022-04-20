@@ -106,3 +106,10 @@ Block Diagram
 Flow Chart
 ![Screenshot 2022-04-20 001421](https://user-images.githubusercontent.com/102678112/164306756-104dfde4-53ba-4568-87a4-74802c3c8ab1.png)
 
+## Application
+
+1) Cooking (for testing food is cooked through), laboratories (for measuring solutions in test tubes).
+2) HVAC
+3) Automotive
+4) Research and quality control.
+
