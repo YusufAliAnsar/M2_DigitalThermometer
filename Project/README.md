@@ -1,6 +1,6 @@
 ## Badges
 
-## Codigo
+## Codiga
 ![Screenshot 2022-04-21 130016](https://user-images.githubusercontent.com/102678112/164402747-9800cee6-abc2-456e-9cd7-18c5b36be509.png)
 
 https://api.codiga.io/project/32908/status/svg
