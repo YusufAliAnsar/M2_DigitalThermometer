@@ -1,8 +1,9 @@
 ## Badges
 
+https://api.codiga.io/project/32908/status/svg
+
 https://api.codiga.io/project/32908/score/svg
 
-https://api.codiga.io/project/32908/status/svg
 
 ## Folder Structure
 
