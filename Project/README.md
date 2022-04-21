@@ -1,10 +1,14 @@
 ## Badges
 
+## Codigo
 ![Screenshot 2022-04-21 130016](https://user-images.githubusercontent.com/102678112/164402747-9800cee6-abc2-456e-9cd7-18c5b36be509.png)
 
 https://api.codiga.io/project/32908/status/svg
 
 https://api.codiga.io/project/32908/score/svg
+
+## Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1d6600b1cc5643868311740f31daaccb)](https://www.codacy.com/gh/YusufAliAnsar/M2_DigitalThermometer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YusufAliAnsar/M2_DigitalThermometer&amp;utm_campaign=Badge_Grade)
 
 ## CI Check
 [![CI](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/main.yml/badge.svg)](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/main.yml)
