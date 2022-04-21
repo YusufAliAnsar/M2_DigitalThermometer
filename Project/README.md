@@ -16,6 +16,9 @@ https://api.codiga.io/project/32908/score/svg
 ## Git Inspector
 [![Git Inspector](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/Git-Inspector.yml)
 
+## Manual Workflow
+[![Manual Workflow](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/manual.yml/badge.svg)](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/manual.yml)
+
 
 ## Folder Structure
 
