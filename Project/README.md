@@ -7,7 +7,7 @@ https://api.codiga.io/project/32908/status/svg
 https://api.codiga.io/project/32908/score/svg
 
 ## CI Check
-CI
+[![CI](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/main.yml/badge.svg)](https://github.com/YusufAliAnsar/M2_DigitalThermometer/actions/workflows/main.yml)
 
 
 ## Folder Structure
